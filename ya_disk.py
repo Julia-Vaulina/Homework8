@@ -2,7 +2,7 @@ from pprint import pprint
 
 import requests
 
-token = "y0_AgAAAABRtwciAADLWwAAAADM1_TjUE8WQutvTVWWwuPhtwsO_uD_hhw"
+token = 
 
 class YaDisk:
     def __init__(self, token):
